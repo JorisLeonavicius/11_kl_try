@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695234321 source:c:\users\eridasa\desktop\it\mokyklos\c++ programos su codeblocks\darbas su failais 3\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

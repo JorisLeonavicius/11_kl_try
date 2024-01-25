@@ -1,0 +1,3 @@
+﻿  Funkcijos su argumentais1.cpp
+C:\Users\ERIDASA\Desktop\IT\Mokyklos\Funkcijos su argumentais1\Funkcijos su argumentais1.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Funkcijos su argumentais1.vcxproj -> C:\Users\ERIDASA\Desktop\IT\Mokyklos\Funkcijos su argumentais1\x64\Debug\Funkcijos su argumentais1.exe

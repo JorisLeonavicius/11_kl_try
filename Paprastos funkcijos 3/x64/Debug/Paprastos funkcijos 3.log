@@ -1,0 +1,3 @@
+﻿  Paprastos funkcijos 3.cpp
+C:\Users\ERIDASA\Desktop\IT\Mokyklos\Paprastos funkcijos 3\Paprastos funkcijos 3.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Paprastos funkcijos 3.vcxproj -> C:\Users\ERIDASA\Desktop\IT\Mokyklos\Paprastos funkcijos 3\x64\Debug\Paprastos funkcijos 3.exe

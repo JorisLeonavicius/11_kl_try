@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student_data>
+    <student>
+        <name>Algirdas</name>
+        <surname>Algirdaitis</surname>
+        <class>12A</class>
+        <address>Akacijų g. 8</address>
+        <city>Klaipėda</city>
+        <postal_code>LT-12345</postal_code>
+    </student>
+    <student>
+        <name>Birutė</name>
+        <surname>Birutytė</surname>
+        <class>11B</class>
+        <address>Bažnyčios a. 3</address>
+        <city>Vilnius</city>
+        <postal_code>LT-54321</postal_code>
+    </student>
+    <student>
+        <name>Česlovas</name>
+        <surname>Česlovaitis</surname>
+        <class>10C</class>
+        <address>Cikorių g. 12</address>
+        <city>Kaunas</city>
+        <postal_code>LT-67890</postal_code>
+    </student>
+    <student>
+        <name>Danė</name>
+        <surname>Danelytė</surname>
+        <class>9A</class>
+        <address>Dubravos pr. 7</address>
+        <city>Šiauliai</city>
+        <postal_code>LT-13579</postal_code>
+    </student>
+    <student>
+        <name>Eglė</name>
+        <surname>Eglytė</surname>
+        <class>8B</class>
+        <address>Ežerų g. 14</address>
+        <city>Panevėžys</city>
+        <postal_code>LT-24680</postal_code>
+    </student>
+    <student>
+        <name>Frančeska</name>
+        <surname>Frančeskaitė</surname>
+        <class>7C</class>
+        <address>Falų al. 21</address>
+        <city>Marijampolė</city>
+        <postal_code>LT-97531</postal_code>
+    </student>
+</student_data>
